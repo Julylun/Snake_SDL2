@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\GameEngine.h.obj",
+            "outputs": [
+                "D:\\Working\\University\\Coding\\C++\\SDL2\\Project2\\Project2\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Working\\University\\Coding\\C++\\SDL2\\Project2\\Project2\\x64\\Debug\\GameEngine.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "GameEngine.h",
+                    "source-path": "d:\\working\\university\\coding\\c++\\sdl2\\project2\\project2\\gameengine.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
